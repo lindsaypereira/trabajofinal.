@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* estilos.css */
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Estilos para el encabezado */
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+/* Estilos para la barra de navegación */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+    background-color: #757575;
+
+}
+
+nav ul li {
+    display: inline-flex;
+    margin-right: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    width: 150px;
+}
+nav li:hover{
+    background-color: black;
+}
+/* Estilos para las imágenes */
+img {
+    max-width: 100%;
+    height: auto;
+
+}
+/* Estilos para los títulos */
+h2 {
+    color:black; 
+}
+
+h3 {
+    color:black; 
+}
+
